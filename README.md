@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
@@ -8,7 +7,6 @@
 </head>
 <body>
 <h1 id="logo">
-    <a href="https://wordpress.org/"><img alt="WordPress" src="wp-admin/images/wordpress-logo.png" /></a>
     <br /> Version 3.9.1
 </h1>
 <p style="text-align: center">Semantic Personal Publishing Platform</p>
